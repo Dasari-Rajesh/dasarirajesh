@@ -59,3 +59,5 @@ defaults:
 
 # ignore stuff
 exclude: [docs/, Rakefile, README.md, LICENSE]
+
+theme: jekyll-theme-slate
