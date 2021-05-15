@@ -14,7 +14,7 @@ nav: About
 Name    : Dasari Rajesh
 
 DOB    : 06-01-2002
-##Education
+## Education
 
 College : IIT Bombay
 
