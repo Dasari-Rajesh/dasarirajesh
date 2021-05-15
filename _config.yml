@@ -27,9 +27,9 @@ url: https://Dasari-Rajesh.github.io
 # use baseurl to add subsection of the domain, e.g. /timelinejs-template
 # on gh-pages this is a / followed by the name of the repository
 # baseurl is your github repository's name prefixed with a /
-baseurl: /dasarirajesh
+# baseurl: /dasarirajesh
 # location of code, the full url to your github repository
-source-code: https://github.com/Dasari-Rajesh/dasarirajesh
+source-code: https://github.com/Dasari-Rajesh/dasari-rajesh.github.io
 
 ##########
 # GOOGLE ANALYTICS [optional!]
